@@ -1,0 +1,23 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    width: 640px;
+    height: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+.description {
+    background-color: blue;
+    color: antiquewhite;
+    font-size: 18px;
+}
+
+.directions {
+    color:green;
+
+}
